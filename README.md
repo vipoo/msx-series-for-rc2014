@@ -78,5 +78,5 @@ The following table describes the registers of the PSG:
 
 ## Resources
 
-* Schematic: [schematic.pdf](schematic.pdf "Schematic")
+* Schematic: [schematic.pdf](./schematic.pdf "Schematic")
 * [YM2149 Datasheet](datasheets/ym2149.pdf)
